@@ -85,6 +85,8 @@ public ProductService(List<StockObserver> observers) {
     - **HU 2.1.2:** Como estudiante quiero un diagrama de casos de uso con los escenarios principales. (2 pts)
     - **HU 2.1.3:** Como estudiante quiero un diagrama de clases con las entidades y sus relaciones. (3 pts)  
 
+## ejecucion del programa con mvn spring-boot:run
+![ejecucion](docs/imagenes/ejecucion.png)
 
 ## Pruebas con jacoco
-![Diagrama de Contexto](docs/imagenes/jacoco.png)
+![jacoco](docs/imagenes/jacoco.png)
