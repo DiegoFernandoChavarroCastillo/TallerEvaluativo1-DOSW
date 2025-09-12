@@ -60,7 +60,7 @@ public ProductService(List<StockObserver> observers) {
 ```
 ## 4. Diagramas
 - de contexto
-  ![Diagrama de Contexto](docs/imagenes/contexto.png
+  ![Diagrama de Contexto](docs/imagenes/contexto.png)
 - de casos de uso
   ![Diagrama de Casos de uso](docs/imagenes/casouso.png)
 
@@ -86,3 +86,5 @@ public ProductService(List<StockObserver> observers) {
     - **HU 2.1.3:** Como estudiante quiero un diagrama de clases con las entidades y sus relaciones. (3 pts)  
 
 
+## Pruebas con jacoco
+![Diagrama de Contexto](docs/imagenes/jacoco.png)
